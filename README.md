@@ -1,2 +1,2 @@
 # javascript
-Github 연결
+Github 연결하기
